@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="profile_nama">feky irawan</string>
+    <string name="profile_username">fkyirawan</string>
+    <string name="profile_follow_count">25</string>
+    <string name="profile_followers">Followers</string>
+    <string name="profile_follow_button">follow</string>
+    <string name="profile_following_count">50</string>
+    <string name="profile_following">Following</string>
+    <string name="profile_post_count">0</string>
+    <string name="profile_post">following</string>
+    <string name="profile_pesan">Kirim Pesan</string>
+
+    <string name="content_prize">Rp.5,000,000</string>
+    <string name="content_text">Mohon tanyakan stock pada kami terlebih dahus
+        entry-level Stagestar drum kit provides the precise bearing edges for easy tuning that beginners need and the wide tuning range that pros demand. With an Omni-ball double tom holder allowing more accurate tom placement, Tama Stagestar drums are changing the way entry-level drumkits are designed!
+    </string>
+    <string name="content_merek">Tama</string>
+    <string name="content_drum_size">22 x 16 Bass Drum
+10 x 7 and 12 x 8 Toms
+16 x 14 Floor Tom
+14 x 5 Snare Drum
+Hardware includes:
+
+1x Double Braced Hi Hat Stand
+1x Double Braced Boom Stand
+1x Bass Drum Pedal
+1x Double Braced Wind-Up Drum Throne
+1x Double Braced Snare Stand</string>
+
+
+</resources>
